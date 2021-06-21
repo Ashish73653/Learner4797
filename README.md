@@ -1,6 +1,5 @@
-<video width="100%" height="200px"controls>
+
   <source src="https://pixabay.com/videos/id-31210/" type="video/mp4">
-</video>
 
 <h2> Hey there! I'm Ashish Singh.</h2>
 
