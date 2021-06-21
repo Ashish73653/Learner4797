@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://learner4797.github.io/MyPortfolio/index.html"><img alt="Website" src="https://learner4797.github.io/MyPortfolio/index.html"></a>
+<a href="https://learner4797.github.io/MyPortfolio/index.html"><img alt="Website" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ashish-singh-1771091a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/ash1sh_1hakur10/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
