@@ -1,4 +1,4 @@
-![binary-2910663_1920](https://user-images.githubusercontent.com/65036327/122827736-5f779580-d302-11eb-94eb-287bb2bb0b61.jpg)
+![Untitled](https://user-images.githubusercontent.com/65036327/122829259-699a9380-d304-11eb-85c2-9d61f908039d.jpg)
 
 
 <h2> Hey there! I'm Ashish Singh.</h2>
