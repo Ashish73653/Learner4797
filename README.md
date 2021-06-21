@@ -1,5 +1,4 @@
-https://user-images.githubusercontent.com/65036327/122825626-d19aab00-d2ff-11eb-9d7e-e910b1a49f2c.mp4
-
+![binary-2910663_1920](https://user-images.githubusercontent.com/65036327/122827736-5f779580-d302-11eb-94eb-287bb2bb0b61.jpg)
 
 
 <h2> Hey there! I'm Ashish Singh.</h2>
