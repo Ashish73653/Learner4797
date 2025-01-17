@@ -35,8 +35,8 @@
 <br/>
 
 <a href="https://github.com/Learner4797">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Learner4797&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Learner4797&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish73653&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish73653&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -49,7 +49,7 @@
 <a href="https://www.instagram.com/ash1sh_1hakur10/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-⭐️ From [Learner4797](https://github.com/Learner4797)
+⭐️ From [Learner4797](https://github.com/Ashish73653)
 
 
 https://user-images.githubusercontent.com/65036327/122947839-1540f380-d398-11eb-9856-4bf23e804b08.mp4
